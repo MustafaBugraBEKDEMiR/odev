@@ -2,9 +2,9 @@ var developmentDatabase = {
     postgres: {
     host: 'localhost',
     port: 5432,
-    database: 'ddmdi8nrata9v5',
-    user: 'idfovhoyrxfehc',
-    password: '4ed8e2e0d73506967fef088fd95fbd6097d1dc287575746dd7a14a758757f897'
+    database: 'd4pun79hv0gebn',
+    user: 'ekgnhyblbnlblo',
+    password: 'd689d474f77a5119a51dfa1fdb8930bb545cafb95e163712bb9ffe11613c1e4b'
     }
     }
     

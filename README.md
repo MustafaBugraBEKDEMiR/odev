@@ -1,9 +1,7 @@
 # OsGeoChallenge-individual-
-GMT-352 Assignment
+GMT-352 Assignment 2
 
 
-My project link : https://melihaltay.herokuapp.com/ 
-
-If you have any questions, to contact : melihaltay2017@gmail.com
+My project link : https://gmt352-osgeo-team-14.herokuapp.com/ 
 
 
